@@ -1,0 +1,31 @@
+ul{
+    background-color: aqua;
+    color: black;
+    list-style-type: number;
+
+    
+    
+}
+[data-available=true]{
+    background-color: green;
+    color: white;
+    margin-top: 5px;
+    
+}
+[data-available=flase]{
+    background-color: red;
+    color: white;
+    margin-top: 5px;
+}
+[data-category="application"]{
+    list-style-type: upper-alpha;
+    
+}
+[data-category="electonics"]{
+    list-style-type: upper-alpha;
+    
+}
+
+
+
+
